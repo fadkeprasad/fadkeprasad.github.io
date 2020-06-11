@@ -1,0 +1,2 @@
+	name: Frisky Markets
+	markdown: kramdown
